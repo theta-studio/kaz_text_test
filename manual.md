@@ -12,3 +12,4 @@ will it work *well*?
 ##kakikueba
 ##kaneganarunari
 ##dokodakke
+##asokodayo
