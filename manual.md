@@ -10,3 +10,4 @@ will it work *well*?
 ###eeeeeeeeeeeeeee
 ####ooooooooooooooooooooooo
 ##kakikueba
+##kaneganarunari
